@@ -6,8 +6,8 @@
   --primary-text: #1A1A1A;
   --secondary-text: #555555;
   --border: #E0E0E0;
-  --primary-accent: #00A6B6;
-  --primary-hover: #008B99;
+  --primary-accent: #000000;
+  --primary-hover: #333333;
   --secondary: #13455A;
   --disabled: #CCCCCC;
   
@@ -53,8 +53,8 @@
   --primary-text: #FFFFFF;
   --secondary-text: #B3B3B3;
   --border: #333333;
-  --primary-accent: #00A6B6;
-  --primary-hover: #1BC2CF;
+  --primary-accent: #FFFFFF;
+  --primary-hover: #F0F0F0;
   --secondary: #13455A;
   --disabled: #555555;
 }
